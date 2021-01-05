@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://jonaslarsson78.github.io/mandatory-advanced-js5",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chai": "^4.2.0",
     "chai-jest-snapshot": "^2.0.0",
     "enzyme": "^3.9.0",
